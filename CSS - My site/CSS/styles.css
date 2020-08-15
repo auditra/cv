@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Crete Round', serif;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 50px 0;
+}
+
+.bottom-container {
+  padding: 20px;
+  background-color: #66BFBF;
+  line-height: 3;
+}
+
+.profile {
+  padding: 50px;
+}
+
+.skills {
+  padding: 50px;
+}
+
+.contact-me {
+  padding: 50px;
+  line-height: 3;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.photography {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.drawing {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+p {
+  font-family: 'Crete Round', serif;
+  font-weight: normal;
+  margin: auto;
+  line-height: 2;
+}
+
+h1 {
+  font-family: 'Clicker Script', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Crete Round', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+.desc {
+  font-weight: normal
+}
+
+.intro {
+  width: 40%;
+}
+
+h3 {
+  font-family: 'Rubik', sans-serif;
+  color: #11999E;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 200px;
+}
+
+.profilepic {
+  width: 20%;
+  height: 20%;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: #cdcfd1;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.btn {
+  background-color: #008CBA;
+  border-radius: 12px;
+  width: 15%;
+  padding: 5px;
+  color: #EAF6F6;
+  font-size: 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  margin: 15px;
+  display: inline-block;
+}
+
+a {
+  font-family: 'Crete Round', serif;
+  text-decoration: none;
+  color: #11999E;
+}
+a:hover{
+  color: #096970;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  margin: auto 20px auto 20px;
+  font-size: 1.5rem;
+}
+.footer-link:hover{
+  color: #EAF6F6;
+}
